@@ -1,0 +1,36 @@
+body{
+	background: url(back.png) fixed;
+	background-size: cover;
+	/*background-position: center;*/
+	font-family: raleway;
+	font-weight: bold;
+	color: white;
+}
+  /*body*/
+  #sk{
+	margin-top: -98px;
+}
+#content{
+	
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px black;
+			 	
+}
+.navbar-fixed-top{
+	padding-top: 25px;
+}
+
+a {
+    color: white;
+}
+
+#butt{
+	background-color: rgb(102, 9, 80);
+	color: white;
+	border-radius: 14rem;
+	border: rgb(11, 1, 48);
+	font-weight: bold;
+	margin-left: 479px;
+	margin-top: 30px;
+}

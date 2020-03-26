@@ -1,0 +1,2 @@
+<a href="#contact">Contact</a>
+                        <input type="text" placeholder="Search..">
